@@ -11,7 +11,7 @@ Servo servo1;  // create servo object to control a servo
 
 // Replace with your network credentials
 const char* ssid     = "Stop-The-Noisy-Door";
-const char* password = "PSO-Google";
+const char* password = "";
 
 // Set web server port number to 80
 WiFiServer server(80);
